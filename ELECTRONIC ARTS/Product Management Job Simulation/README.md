@@ -26,12 +26,11 @@ Analyzing the specific business problems that the game aimed to solve, such as u
 Choosing KPIs that aligned with the game’s objectives, including metrics to evaluate user acquisition, player retention, and in-game purchases.
 
 Understanding how these KPIs help the product team assess both the short-term and long-term success of the game, informing the next steps in development and 
-
 marketing strategies.
 
 Demonstrated Knowledge of KPIs in the Video Game Industry
 
-I applied my knowledge to better understand how KPIs are used specifically in the video game industry. I explored:
+I applied my knowledge to better understand how KPIs are used specifically in the video game industry. I explored :
 
 The differences in KPIs across various game genres and platforms.
 
