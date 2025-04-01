@@ -2,7 +2,7 @@ Cognizant - Agile Methodology Job Simulation
 
 In this job simulation, I gained hands-on experience in Agile project management and applied Agile practices to real-world scenarios.The objective was to demonstrate an understanding of Agile methodologies, including Scrum and how they could be applied to improve the development process. 
 
-Below are the tasks I completed as part of this simulation:
+Below are the tasks I completed as part of this simulation : 
 
 Created a Comprehensive Presentation on Agile vs. Waterfall Methodologies
 
