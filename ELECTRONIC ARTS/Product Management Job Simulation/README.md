@@ -2,10 +2,10 @@ Electronic Arts - Product Management Job Simulation
 
 In this job simulation, I developed a deep understanding of product management principles, focusing on selecting the most appropriate Key Performance Indicators (KPIs) and measuring business outcomes in the context of the video game industry. I applied my knowledge to real-world product management challenges while also gaining insight into the importance of data-driven decision-making. 
 
-Below are the tasks I completed as part of this simulation:
+Below are the tasks I completed as part of this simulation : 
 
 Developed an Understanding of Key Performance Indicators (KPIs)
-In this task, I learned about the importance of KPIs in tracking and evaluating the success of a product. I gained knowledge on how to identify and define key metrics that are critical to assessing business performance, including:
+In this task, I learned about the importance of KPIs in tracking and evaluating the success of a product. I gained knowledge on how to identify and define key metrics that are critical to assessing business performance, including : 
 
 Revenue per user
 
@@ -47,7 +47,6 @@ In the final task, I broke down the process of creating a data-driven presentati
 Analyzed how product data can be presented in a clear and actionable way for stakeholders, including the product team and senior leadership.
 
 Focused on visualization and storytelling with data, ensuring the presentation included key metrics, performance trends, and strategic recommendations based on the 
-
 selected KPIs.
 
 This helped me develop my skills in data presentation, ensuring that insights were communicated effectively to stakeholders to drive informed decision-making.
