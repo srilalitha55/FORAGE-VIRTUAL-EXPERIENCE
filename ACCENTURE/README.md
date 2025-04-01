@@ -1,6 +1,8 @@
 Accenture - Project Management Job Simulation
 
-In this job simulation, I acted as a Project Manager for a hypothetical client who was launching a new brand. The objective was to simulate the real-world process of managing a project from start to finish, addressing key challenges, and aligning project goals with business objectives. Below are the tasks I completed as part of this simulation:
+In this job simulation, I acted as a Project Manager for a hypothetical client who was launching a new brand. The objective was to simulate the real-world process of managing a project from start to finish, addressing key challenges, and aligning project goals with business objectives. 
+
+Below are the tasks I completed as part of this simulation:
 
 Role as Project Manager for a New Brand Launch
 I assumed the role of a project manager for a client launching a new brand, where I was responsible for overseeing the entire project lifecycle. This involved understanding the project's scope, setting clear goals, identifying key stakeholders, and ensuring that all project components were delivered on time and within budget. I was tasked with ensuring that the project's deliverables aligned with the business objectives while meeting quality standards.
